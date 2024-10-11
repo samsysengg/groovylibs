@@ -1,3 +1,3 @@
-def call(def inputvalue) {
-echo 'print ${inputvalue}'
+def greet(name) {
+    return "Hello, ${name}!"
 }
